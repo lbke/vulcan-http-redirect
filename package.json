@@ -1,0 +1,22 @@
+{
+  "name": "vulcan-http-redirect",
+  "version": "0.0.1",
+  "description": "Vulcan http redirections",
+  "main": "package.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbke/vulcan-http-redirect.git"
+  },
+  "author": "LBKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lbke/vulcan-http-redirect/issues"
+  },
+  "homepage": "https://github.com/lbke/vulcan-http-redirect#readme"
+}
